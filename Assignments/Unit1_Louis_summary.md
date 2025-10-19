@@ -2,6 +2,10 @@
 
 This analysis explores the factors influencing survival rates during the Titanic disaster using the `v_titanic_cleaned` dataset in BigQuery.
 
+## Data Preparation
+
+Before conducting the analysis, the data underwent a cleaning process. This involved creating a cleaned view of the original Titanic dataset (`v_titanic_cleaned`) in BigQuery. While the specific steps of the cleaning process are not detailed in this notebook, the analysis was performed on this pre-processed data, which is assumed to have handled missing values and inconsistencies relevant to the columns used in the analysis (passenger class, sex, age, and survival status).
+
 ## What was found:
 
 Based on the analysis of survival rates across different passenger demographics, the key findings are:
