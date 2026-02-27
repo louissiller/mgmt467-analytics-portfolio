@@ -1,4 +1,4 @@
-# mgmt467-analytics-portfolio
+# Analytics Portfolio MGMT467
 A portfolio of data analytics projects for Purdue's MGMT 467
 
 ## Week 2.1 Prompt Practice
